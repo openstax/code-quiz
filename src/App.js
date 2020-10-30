@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect, useCallback } from 'react'
+import React, { useState, useRef, useCallback } from 'react'
 import './App.css';
 import {Editor} from './editor'
 import { runCode } from './run';
