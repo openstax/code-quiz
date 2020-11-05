@@ -12,7 +12,8 @@ export async function runCode({ code, input }) {
 
     Sk.configure({
         output(text) {
-            if (text !== "\n") {
+            // eslint-disable-next-line eqeqeq
+            if (text != "\n" && text != "") {
                 result.output.push(text)
             }
         },
@@ -51,6 +52,7 @@ export async function runExercise({code, inputs, expected}) {
         const result = await runCode({ code, input })
         result.input = input
         result.expected = match
+        // console.log(result.output, match)
         result.passed = Boolean( // eslint-disable-next-line eqeqeq
             result.success && !result.output.find((line, lineIndex) => line != match[lineIndex])
         )
