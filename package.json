@@ -1,6 +1,6 @@
 {
   "name": "code-edit",
-  "homepage": "https://openstax.github.io/monaco-skulpt/",
+  "homepage": "https://openstax.github.io/code-quiz/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
