@@ -1,6 +1,7 @@
 .App {
   max-width: 1000px;
   display: flex;
+  flex-direction: column;
   margin: 2rem auto;
 }
 
@@ -52,4 +53,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+.exercise + .exercise {
+    border-top: 1px solid gray;
+    margin-top: 1rem;
+    padding-top: 1rem;
+}
+
+.exercise.hidden {
+    opacity: 0.3;
 }
