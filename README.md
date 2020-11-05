@@ -1,5 +1,5 @@
-a small proof of concept python editor with code evaluation
+a small proof of concept python editor to run small programs and test their output is correct
 
-Try it out at [openstax.github.io/monaco-skulpt/](https://openstax.github.io/monaco-skulpt/)
+Try it out at [openstax.github.io/code-quiz/](https://openstax.github.io/code-quiz/)
 
 ![Screenshot](screenshot.png)
