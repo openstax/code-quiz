@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/monaco-skulpt/static/css/main.2224f09a.chunk.css",
-    "main.js": "/monaco-skulpt/static/js/main.e11b6b19.chunk.js",
-    "main.js.map": "/monaco-skulpt/static/js/main.e11b6b19.chunk.js.map",
-    "runtime-main.js": "/monaco-skulpt/static/js/runtime-main.21581d79.js",
-    "runtime-main.js.map": "/monaco-skulpt/static/js/runtime-main.21581d79.js.map",
+    "main.css": "/monaco-skulpt/static/css/main.6d01f945.chunk.css",
+    "main.js": "/monaco-skulpt/static/js/main.56d72a6d.chunk.js",
+    "main.js.map": "/monaco-skulpt/static/js/main.56d72a6d.chunk.js.map",
+    "runtime-main.js": "/monaco-skulpt/static/js/runtime-main.d5434de5.js",
+    "runtime-main.js.map": "/monaco-skulpt/static/js/runtime-main.d5434de5.js.map",
     "static/css/2.0ccd3c2b.chunk.css": "/monaco-skulpt/static/css/2.0ccd3c2b.chunk.css",
-    "static/js/2.a006bae0.chunk.js": "/monaco-skulpt/static/js/2.a006bae0.chunk.js",
-    "static/js/2.a006bae0.chunk.js.map": "/monaco-skulpt/static/js/2.a006bae0.chunk.js.map",
-    "static/js/3.d25e2097.chunk.js": "/monaco-skulpt/static/js/3.d25e2097.chunk.js",
-    "static/js/3.d25e2097.chunk.js.map": "/monaco-skulpt/static/js/3.d25e2097.chunk.js.map",
+    "static/js/2.7f4f7625.chunk.js": "/monaco-skulpt/static/js/2.7f4f7625.chunk.js",
+    "static/js/2.7f4f7625.chunk.js.map": "/monaco-skulpt/static/js/2.7f4f7625.chunk.js.map",
+    "static/js/3.2c80b697.chunk.js": "/monaco-skulpt/static/js/3.2c80b697.chunk.js",
+    "static/js/3.2c80b697.chunk.js.map": "/monaco-skulpt/static/js/3.2c80b697.chunk.js.map",
     "index.html": "/monaco-skulpt/index.html",
     "static/css/2.0ccd3c2b.chunk.css.map": "/monaco-skulpt/static/css/2.0ccd3c2b.chunk.css.map",
-    "static/css/main.2224f09a.chunk.css.map": "/monaco-skulpt/static/css/main.2224f09a.chunk.css.map",
-    "static/js/2.a006bae0.chunk.js.LICENSE.txt": "/monaco-skulpt/static/js/2.a006bae0.chunk.js.LICENSE.txt",
+    "static/css/main.6d01f945.chunk.css.map": "/monaco-skulpt/static/css/main.6d01f945.chunk.css.map",
+    "static/js/2.7f4f7625.chunk.js.LICENSE.txt": "/monaco-skulpt/static/js/2.7f4f7625.chunk.js.LICENSE.txt",
     "static/media/codicon.css": "/monaco-skulpt/static/media/codicon.b3726f01.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.21581d79.js",
+    "static/js/runtime-main.d5434de5.js",
     "static/css/2.0ccd3c2b.chunk.css",
-    "static/js/2.a006bae0.chunk.js",
-    "static/css/main.2224f09a.chunk.css",
-    "static/js/main.e11b6b19.chunk.js"
+    "static/js/2.7f4f7625.chunk.js",
+    "static/css/main.6d01f945.chunk.css",
+    "static/js/main.56d72a6d.chunk.js"
   ]
 }
